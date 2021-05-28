@@ -20,12 +20,12 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/antoine92190/vue-advanced-chat.git"
+		"url": "git+https://github.com/educatena/vue-advanced-chat.git"
 	},
 	"bugs": {
-		"url": "https://github.com/antoine92190/vue-advanced-chat/issues"
+		"url": "https://github.com/educatena/vue-advanced-chat/issues"
 	},
-	"homepage": "https://github.com/antoine92190/vue-advanced-chat#readme",
+	"homepage": "https://github.com/educatena/vue-advanced-chat#readme",
 	"main": "./dist/vue-advanced-chat.common.js",
 	"unpkg": "./dist/vue-advanced-chat.min.js",
 	"scripts": {
