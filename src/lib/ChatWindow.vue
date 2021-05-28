@@ -254,7 +254,7 @@ export default {
 			this.$emit('toggle-rooms-list', { opened: this.showRoomsList })
 		},
 		fetchRoom({ room }) {
-			this.room = room
+			this.room = room || {}
 			this.fetchMessages({ reset: true })
 			if (this.isMobile) this.showRoomsList = false
 		},
